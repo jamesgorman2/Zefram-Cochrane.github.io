@@ -1,6 +1,6 @@
-editors: [{"name":"James Gorman","timestamp":1552811622105},{"name":"James Gorman","timestamp":1552811622105},{"name":"James Gorman","timestamp":1552811692791}]
+editors: [{"name":"James Gorman","timestamp":1552811622105},{"name":"James Gorman","timestamp":1552811622105},{"name":"James Gorman","timestamp":1552811692791},{"name":"James Gorman","timestamp":1553074528681}]
 created: 20190317053526060
-modified: 20190317082220656
+modified: 20190320093517383
 tags: 
 title: New Tiddler
 tmap.id: fa26ea30-185d-4cd6-832b-c9383e7a2627
@@ -8,3 +8,4 @@ type: text/vnd.tiddlywiki
 
 af adfadasfasdf
 foo
+bar
